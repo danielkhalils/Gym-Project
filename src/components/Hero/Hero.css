@@ -132,7 +132,7 @@
     top: 7rem;
 }
 
-.heart-rate> .img{
+.heart-rate>img{
     width: 2rem;
 }
 
@@ -267,7 +267,31 @@
         align-items: start;
         border-radius: 5px;
         right: 2rem;
-        top: 7rem;
+        top: 3rem;
+        color: white;
+        font-size: 1rem;
+        flex-direction: column;
+    }
+
+    .heart-rate>div>span:nth-child(1){
+        flex-direction: column;
+        font-size: 1rem;
+        margin-bottom: 1rem;
+        color: grey;
+        display: flex;
+        gap: 2rem;
+    }
+
+    .heart-rate>div>span:nth-child(2){
+        flex-direction: column;
+        font-size: 1.5rem;
+        color: white;
+        display: flex;
+        gap: 3rem;
+    }
+
+    .heart-rate>img{
+        width: 2rem;
     }
 
     .calories{
@@ -292,14 +316,7 @@
         align-self: center;
     }
 
-    .hero-image-black{
-        
-    }
-    .right-h .hero-image-black{
-
-    }
-
-    .right-h .calories {
+    .right-h .calories{
         margin-top: 300px;
     }
     
