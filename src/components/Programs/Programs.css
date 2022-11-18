@@ -74,4 +74,9 @@
    .program-categories{
     flex-direction: column;
    }
+
+    .category:hover{
+        background: var(--planCard);
+        cursor: pointer;
+    }
 }
