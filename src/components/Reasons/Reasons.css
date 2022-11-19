@@ -92,7 +92,7 @@
     .left-r {
       grid-auto-rows: auto;
       overflow: hidden;
-      margin-left: -25px;
+      margin-left: -17px;
     }
     .left-r > :nth-child(1) {
       width: 7rem;
