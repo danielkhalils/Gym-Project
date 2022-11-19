@@ -236,7 +236,6 @@
         font-size: xx-large;
         align-items: center;
         justify-content: center;
-        margin-left: -17px;
     }
 
     .hero-text>div:nth-of-type(3){
@@ -325,12 +324,12 @@
         margin-top: 300px;
     }
 
-    .hero-buttons>:nth-child(1){
-        width: 20rem;
-    }
-    
-    .hero-buttons>:nth-child(2){
-        width: 20rem;
+    .left-h{
+        flex: 1;
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        margin-right: 20px;
     }
 
 }
