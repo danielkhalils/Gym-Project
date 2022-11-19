@@ -66,4 +66,9 @@
     .right-j{
         padding: 2rem;
     }
+
+    .email-container{
+        background-color: rgb(29, 27, 27);
+    }
+    
 }
