@@ -106,7 +106,7 @@ const Hero = () => {
                 <img src={hero_image} alt="" className='hero-image'/>
                 <motion.img 
                     initial={{right: "11rem"}}
-                    whileInView={{right: "20rem"}}
+                    whileInView={{right: "25rem"}}
                     transition={{...transition, type: 'tween'}}
                     src={hero_image_black} alt="" 
                     className='hero-image-black'>
