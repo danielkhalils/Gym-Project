@@ -79,7 +79,7 @@
 .figures>div{
     display: flex;
     flex-direction: column;
-    color: gray;
+    color: goldenrod;
 }
 
 .figures>div>span:nth-of-type(1){
