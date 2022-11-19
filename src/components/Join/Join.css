@@ -2,6 +2,7 @@
     display: flex;
     padding: 0 2rem;
     gap: 10rem;
+    margin-top: 60px;
 }
 
 .left-j{
@@ -17,7 +18,7 @@
     width: 10.5rem;
     border: 2px solid var(--orange);
     border-radius: 20%;
-    margin: -10px 0;
+    margin: -20px 0;
 }
 
 .left-j>div{
@@ -29,6 +30,7 @@
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    margin-top: 20px;
 }
 
 .email-container{

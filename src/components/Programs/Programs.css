@@ -1,7 +1,7 @@
 .Programs{
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 4rem;
     padding: 3rem;
 }
 
@@ -9,7 +9,7 @@
     display: flex;
     gap: 5rem;
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 4rem;
     justify-content: center;
     color: white;
     text-transform: uppercase;
@@ -26,9 +26,10 @@
     flex-direction: column;
     background-color: gray;
     padding: 2rem;
-    gap: 1rem;
+    gap: 2.5rem;
     color: white;
     justify-content: space-between;
+    margin-bottom: -30px;
 }
 
 .category>:nth-child(1){
@@ -74,6 +75,11 @@
    .program-categories{
     flex-direction: column;
    }
+
+   .category{
+    margin-bottom: 5px;
+    margin: auto;
+}
 
     .category:hover{
         background: var(--planCard);

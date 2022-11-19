@@ -3,17 +3,16 @@
 }
 
 .Footer-container>hr{
-    bord: 1px solid var(--lightgray);
+    border: 1px solid var(--lightgray);
 }
 
 .footer{
-    padding: 1rem 2rem;
     display: flex;
     flex-direction: column;
     gap: 4rem;
     align-items: center;
     justify-content: center;
-    height: 20rem;
+    height: 15rem;
 }
 
 .social-links{
