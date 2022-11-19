@@ -97,7 +97,7 @@ const Hero = () => {
                     className="heart-rate">
                     <img src={Heart} alt="" />
                     <div>
-                        <span>Heart Rate</span>
+                        <span>Heart Rate </span>
                         <span>116 bpm</span>
                     </div>
                 </motion.div>

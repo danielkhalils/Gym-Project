@@ -36,7 +36,7 @@
 .email-container{
     display: flex;
     gap: 3rem;
-    background-color: gray;
+    background-color: rgb(29, 27, 27);
     padding: 1rem 2rem;
 }
 
