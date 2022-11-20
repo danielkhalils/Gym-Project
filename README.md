@@ -9,6 +9,9 @@
 
 <p align="center">
   <img alt="Gym Application" src=".github/project.png" width="100%">
+  <img alt="Gym Application" src=".github/project1.png" width="100%">
+  <img alt="Gym Application" src=".github/project2.png" width="100%">
+  <img alt="Gym Application" src=".github/project3.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
